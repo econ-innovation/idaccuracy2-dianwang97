@@ -1,0 +1,13 @@
+doi,标题,期刊,年份,作者
+10.1109/TPWRS.2014.2319315,Online Optimal Generation Control Based on Constrained Distributed Gradient Algorithm,"Power Systems, IEEE Transactions  ",2015,"Wei Zhang,Wenxin Liu,Xin Wang,Liming Liu"
+,Novel distributed algorithms for power systems operations,Novel distributed algorithms for power systems operations,2013,"Wenxin Liu,Yinliang Xu"
+10.1109/TSMCC.2012.2218596,Multiagent-Based Reinforcement Learning for Optimal Reactive Power Dispatch,"IEEE Transactions on Systems, Man, and Cybernetics, Part C",2012,"Yinliang Xu,Wei Zhang,Wenxin Liu,Frank T. Ferrese"
+,Integration of a bi-directional DC�DC converter model into a real-time system simulation of a shipbo,The Lancet,2011,"ilyop chung,wenxin liu,karl schoder,david a cartes"
+10.5370/JEET.2011.6.6.750,Controller Optimization for Bidirectional Power Flow in Medium-Voltage DC Power Systems,JOURNAL OF ELECTRICAL ENGINEERING & TECHNOLOGY,2011,"ilyop chung,wenxin liu,david a cartes,soohwan cho,hyunkoo kang"
+10.1002/etep.424,Control parameter optimization for multiple distributed generators in a microgrid using particle swarm optimization,EUROPEAN TRANSACTIONS ON ELECTRICAL POWER,2011,"Il-Yop Chung,Wenxin Liu,David A. Cartes,Seung-Il Moon"
+10.1109/ESTS.2009.4906531,Integration Of A Bi-Directional Dc-Dc Converter Model Into A Large-Scale System Simulation Of A Shipboard Mvdc Power System,2009 IEEE ELECTRIC SHIP TECHNOLOGIES SYMPOSIUM,2009,"ilyop chung,wenxin liu,m andrus,karl schoder,siyu leng,david a cartes,mischa steurer"
+10.1109/ECCE.2009.5316249,Robust controller design for inverter-interfaced distributed generators considering islanded operation of a microgrid,"San Jose, CA",2009,"ilyop chung,wenxin liu,siyu leng,david a cartes,emmanuel g collins"
+10.1109/IJCNN.2007.4371280,Slow Coherency and Angle Modulated Particle Swarm Optimization Based Islanding of Large Scale Power Systems,Advanced Engineering Informatics,2009,"Li Liu,Wenxin Liu,David A. Cartes,Il-Yop Chung"
+10.1109/ACC.2009.5160364,Active power filter for three-phase current harmonic cancellation and reactive power compensation,ACC'09 Proceedings of the 2009 conference on American Control Conference,2009,"Siyu Leng,Wenxin Liu,II-Yop Chung,David Cartes"
+10.1007/978-3-540-87734-9_14,A Nonlinear Hierarchical Multiple Models Neural Network Decoupling Controller,ISNN (2),2008,"Xin Wang,Hui Yang,Shaoyuan Li,Wenxin Liu,Li Liu,David A. Cartes"
+10.1109/ICSET.2008.4747124,Control Parameter Optimization For A Microgrid System Using Particle Swarm Optimization,"2008 IEEE INTERNATIONAL CONFERENCE ON SUSTAINABLE ENERGY TECHNOLOGIES (ICSET), VOLS 1 AND 2",2008,"ilyop chung,wenxin liu,david a cartes,karl schoder"
